@@ -3,4 +3,4 @@ My Name is kahfi
 
 - I’m currently a student on Telkom University
 - I'm curretnly an informatics major
-- I sometimes play tetris on my spare time
+- I can use Python, C++ and Golang only at the basic level
